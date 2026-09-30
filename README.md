@@ -24,7 +24,7 @@ class Developer
     private string $role = "Senior PHP/Laravel Developer";
     private string $location = "Isfahan, Iran 🇮🇷";
     private string $company = "Fiqar";
-    private string $website = "https://picobaz.site";
+    private string $website = "https://picobaz.top";
     
     public function getCoreStack(): array
     {
@@ -317,7 +317,7 @@ echo (new Developer())->getCurrentMission();
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/picobaz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:picobaz3@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://picobaz.site)
+[![Website](https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://picobaz.top)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PicoBaz)
 
 <br>
