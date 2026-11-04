@@ -23,7 +23,7 @@ class Developer
     private string $name = "PicoBaz";
     private string $role = "Senior PHP/Laravel Developer";
     private string $location = "Isfahan, Iran 🇮🇷";
-    private string $company = "Fiqar";
+    private string $company = "DEKA";
     private string $website = "https://picobaz.top";
     
     public function getCoreStack(): array
